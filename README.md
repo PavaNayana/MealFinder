@@ -1,2 +1,0 @@
-# MealFinder
-meal finder
